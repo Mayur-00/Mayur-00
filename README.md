@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 📫 How to reach me, you can connect me on Twitter, id:- @MayurKendre01
-- 😄 Pronouns: Paul
+- 😄 Pronouns:
 - ⚡ Fun fact: i am  just only Developer who forget's Syntax in every two days
 
 <!---
