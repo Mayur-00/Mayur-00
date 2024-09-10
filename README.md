@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Mayur-00
+- 👋 Hi, I’m Mayur Kendre
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently Exploring web development
 - 📫 How to reach me, you can connect me on Twitter, id:- @MayurKendre01
-- 😄 Pronouns:
-- ⚡ Fun fact: i am  just only Developer who forget's Syntax in every two days
+
 
 <!---
 Mayur-00/Mayur-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
